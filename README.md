@@ -6,3 +6,4 @@ Daniele Colangeli
 Mattia Del Cucina
 Hiroshi Farsetti
 Federico Masi
+Lucio Tavanti
