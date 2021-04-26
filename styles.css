@@ -1,0 +1,126 @@
+body {
+    background-color: #c9c9c9;
+}
+
+/* Invoice Body */
+div#invoice-body {
+    width: 80%;
+    margin: auto;
+    padding: 20px 20px 0 20px;
+    border: 1.5px solid grey;
+    background-color: white;
+}
+/* Invoice Body */
+
+/* Header */
+div#header {
+    display: flex;
+    flex-direction: row;
+    width: 20%;
+    justify-content: space-between;
+}
+
+img#logo {
+    width: 100px;
+    height: 100px;
+}
+/* Header */
+
+/* Actors Box */
+div#actors-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+div#vendor-box, div#customer-box {
+    width: 40%;
+    text-align: center;
+}
+
+div#invoice-info {
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+div#year, div#index {
+    width: 100px;
+    height: 50px;
+}
+
+/*div#invoice-info * {
+    margin-left: 20px;
+}*/
+/* Actors Box */
+
+/* Table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    /*border: 2px solid grey;*/
+}
+
+table, td, th {
+    border: 2px solid grey;
+}
+
+th {
+    background-color: rgb(177, 175, 175);
+}
+/* Table */
+
+/* random */
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-color-white {
+    color: #f0f0f0;
+}
+
+.center {
+    display: inline-block;
+    height: 100%;
+    vertical-align: bottom;
+    width: 80%;
+}
+
+.p-margin-left p {
+    margin-left: 5px;
+}
+
+.logo {
+    font-size: 45px;
+    color: rgb(95, 141, 144);
+}
+
+.label {
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.label-small {
+    font-size: 20px;
+    margin-bottom: 3px;
+}
+
+.box-colors {
+    background-color: #808080;
+    border: 1px solid #505050;
+}
+
+.bg-grey {
+    background-color: rgb(177, 175, 175);
+}
+/* random */
