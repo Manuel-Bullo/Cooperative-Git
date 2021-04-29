@@ -49,10 +49,6 @@ div#year, div#index {
     width: 100px;
     height: 50px;
 }
-
-/*div#invoice-info * {
-    margin-left: 20px;
-}*/
 /* Actors Box */
 
 /* Table */
@@ -60,7 +56,6 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
-    /*border: 2px solid grey;*/
 }
 
 table, td, th {
