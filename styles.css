@@ -7,7 +7,7 @@ div#invoice-body {
     width: 80%;
     margin: auto;
     padding: 20px 20px 0 20px;
-    border: 1.5px solid black;
+    border: 1.5px solid grey;
     background-color: white;
 }
 /* Invoice Body */
@@ -59,11 +59,11 @@ table {
 }
 
 table, td, th {
-    border: 2px solid black;
+    border: 2px solid grey;
 }
 
 th {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(175, 175, 175);
 }
 /* Table */
 
@@ -97,7 +97,7 @@ th {
 
 .logo {
     font-size: 45px;
-    color: rgb(0, 0, 0);
+    color: rgb(95, 141, 144);
 }
 
 .label {
@@ -116,6 +116,6 @@ th {
 }
 
 .bg-grey {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(175, 175, 175);
 }
 /* random */
